@@ -1,0 +1,52 @@
+============================================================
+MARKETMATE PORTFOLIO ANALYSIS REPORT
+============================================================
+Generated: 2025-08-11 18:31:58
+Analysis Period: 1y
+
+PORTFOLIO OVERVIEW
+------------------------------
+Stocks: AAPL, MSFT, GOOGL, AMZN, TSLA
+Weights: ['25.0%', '20.0%', '20.0%', '20.0%', '15.0%']
+
+PERFORMANCE METRICS
+------------------------------
+Annual Return: 32.39%
+Annual Volatility: 29.42%
+Total Return: 32.03%
+Sharpe Ratio: 1.033
+Sortino Ratio: 1.535
+Maximum Drawdown: -30.97%
+Beta (vs SPY): 1.312
+
+RISK METRICS
+------------------------------
+Value at Risk (95%): -2.74%
+Conditional VaR (95%): -3.95%
+Best Day: 13.59%
+Worst Day: -6.21%
+Positive Days: 134
+Negative Days: 115
+
+INDIVIDUAL STOCK PERFORMANCE
+----------------------------------------
+AAPL:
+  Annual Return: 11.52%
+  Annual Volatility: 32.15%
+  Sharpe Ratio: 0.296
+MSFT:
+  Annual Return: 29.29%
+  Annual Volatility: 24.95%
+  Sharpe Ratio: 1.094
+GOOGL:
+  Annual Return: 26.36%
+  Annual Volatility: 31.21%
+  Sharpe Ratio: 0.780
+AMZN:
+  Annual Return: 34.92%
+  Annual Volatility: 34.01%
+  Sharpe Ratio: 0.968
+TSLA:
+  Annual Return: 76.01%
+  Annual Volatility: 72.09%
+  Sharpe Ratio: 1.027

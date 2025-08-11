@@ -1,0 +1,14 @@
+{
+  "stocks": ["AAPL", "MSFT", "GOOGL", "AMZN", "TSLA"],
+  "weights": [0.25, 0.20, 0.20, 0.20, 0.15],
+  "period": "1y",
+  "interval": "1d",
+  "risk_free_rate": 0.02,
+  "confidence_level": 0.95,
+  "moving_average_windows": [20, 50, 200],
+  "volatility_window": 30,
+  "benchmark": "SPY",
+  "export_formats": ["csv", "excel", "json"],
+  "chart_style": "seaborn-v0_8",
+  "logging_level": "INFO"
+}
